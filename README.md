@@ -1,2 +1,2 @@
 # CIPHERSCHOOl_Assignments
-This repo contains all the assignments solutions.
+This repo contains assignment 1 solutions.
